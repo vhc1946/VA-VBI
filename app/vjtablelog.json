@@ -1,0 +1,18 @@
+{
+  "service_items":{
+    "excelfile":"01-Service Items.xlsx",
+    "jsonfile":"vj-serv-items.json"
+  },
+  "customers":{
+    "excelfile":"01-Customers.xlsx",
+    "jsonfile":"vj-customers.json"
+  },
+  "service_contracts":{
+    "excelfile":"01-Service Contracts.xlsx",
+    "jsonfile":"vj-service-contracts.json"
+  },
+  "wos":{
+    "excelfile":"01-WO.xlsx",
+    "jsonfile":"vj-wos.json"
+  }
+}

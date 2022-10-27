@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+            require('../bin/repo/gui/js/tools/vg-partials.js').writePart(__dirname + '/parts/vg-heads.txt',
+                                                              document.head);
+        </script>
+
+        <link rel="stylesheet" href="../bin/gui/styles/report-styles.css"/>
+        <style>
+          @media print{ /*For printing Techs*/
+            .report-tech-eom-cont{
+              page-break-before:always;
+            }
+          }
+          .viewcontrol-menu{ /*Test for usability*/
+            display: flex;
+            position: sticky;
+            top: 20px;
+          }
+        </style>
+    </head>
+    <body>
+      <!--VG NOTELIST / TR NOTES PARTIAL-->
+      <script>
+          require('../bin/repo/gui/js/tools/vg-partials.js').writePart(__dirname + '/parts/vg-notelist.txt',document.body, 'vg-toast-tr', true);
+      </script>
+
+
+      <div id="report-views" class="viewcontrol-cont">
+        <div class="viewcontrol-menu">
+          <div></div>
+        </div>
+        <div id="report-area-filters"></div>
+        <div class="viewcontrol-port">
+        </div>
+      </div>
+
+    </body>
+    <script src='../bin/gui/main.js'>
+    </script>
+</html>

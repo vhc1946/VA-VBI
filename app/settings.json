@@ -1,0 +1,18 @@
+{
+  "dev":{
+    "on":false,
+    "page":"main.html"
+  },
+  "apis":{
+    "REPORTING":{
+      "url":"http://vapi-env.eba-uaqyvepi.us-east-2.elasticbeanstalk.com/app/"
+    }
+  },
+  "users":{
+    "VOGCH":{"group":"DEV"},
+    "MURRY":{"group":"DEV"}
+  },
+  "groups":{
+    "DEV":{"main":"main.html"}
+  }
+}

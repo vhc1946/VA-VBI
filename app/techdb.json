@@ -1,0 +1,346 @@
+[
+  {
+    "id": "13",
+    "name": "MICHAEL COLYER",
+    "user":"COLMI",
+    "phone": "314-568-9118",
+    "email": "mikec@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "166",
+    "name": "PAUL J. SMITH",
+    "user":"SMIPA",
+    "phone": "314-357-6762",
+    "email": "pauls@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "170",
+    "name": "RICHARD W. BARGE JR",
+    "user":"BARRI",
+    "phone": "314-357-6747",
+    "eamil": "rickb@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "184",
+    "name": "JEFFERY K. HABERSTROH",
+    "user":"HABJE",
+    "phone": "314-324-9071",
+    "email": "jeffh@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "185",
+    "name": "STEVEN C. WARD",
+    "user":"WARST",
+    "phone": "314-565-6223",
+    "email": "stevew@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "196",
+    "name": "DANIEL J. PHILLIPS",
+    "user":"PHIDA",
+    "phone": "314-756-7799",
+    "email": "DANP@VOGELHEATING.COM",
+    "dept": "450"
+  },
+  {
+    "is": "223",
+    "name": "ADAM R. STROUP",
+    "user":"STRAD",
+    "phone": "314-288-7469",
+    "email": "adams@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "231",
+    "name": "DAVID A. DEUSER",
+    "user":"DEUDA",
+    "phone": "314-756-3450",
+    "email": "davidd@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "236",
+    "name": "ERICH A. PETOT",
+    "user":"PETER",
+    "phone": "314-220-4703",
+    "email": "ERICHP@VOGELHEATING.COM",
+    "dept": "400"
+  },
+  {
+    "id": "244",
+    "name": "CHRISTOPHER R. SUEME",
+    "user":"SUECH",
+    "phone": "314-288-7838",
+    "email": "chriss@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "256",
+    "name": "JASON E. NORTHCUTT",
+    "user":"NORJA",
+    "phone": "314-722-0417",
+    "email": "jasonn@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "307",
+    "name": "ROBERT A. HEGGER",
+    "user":"HEGRO",
+    "phone": "314-568-9249",
+    "email": "ROBERTH@VOGELHEATING.COM",
+    "dept": "300"
+  },
+  {
+    "id": "308",
+    "name": "FRANK SCHEJBAL",
+    "user":"SCHFR",
+    "phone": "314-357-6757",
+    "email": "",
+    "dept": "350"
+  },
+  {
+    "id": "333",
+    "name": "DENNIS S. MILLER",
+    "user":"MILDE",
+    "phone": "314-347-9679",
+    "email": "DENNISM@VOGELHEATING.COM",
+    "dept": "450"
+  },
+  {
+    "id": "340",
+    "name": "TOM WATSON",
+    "user":"WATTO",
+    "phone":"",
+    "email": "tomw@vogeheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "345",
+    "name": "LANCE A. LICKLIDER",
+    "user":"LICLA",
+    "phone": "314-347-9673",
+    "email": "LANCEL@VOGELHEATING.COM",
+    "dept": "450"
+  },
+  {
+    "id": "346",
+    "name": "ROBERT L. LICKLIDER",
+    "user":"LICRO",
+    "phone": "314-347-9967",
+    "email": "BOBL@VOGELHEATING.COM",
+    "dept": "400"
+  },
+  {
+    "id": "351",
+    "name": "ERIC W. LACROIX",
+    "user":"LACER",
+    "phone": "314-347-5590",
+    "email": "ERICL@VOGELHEATING.COM",
+    "dept": "400"
+  },
+  {
+    "id": "352",
+    "name": "LUKE N. PAULE",
+    "user":"PAULU",
+    "phone": "314-347-5591",
+    "email": "LUKEP@VOGELHEATING.COM",
+    "dept": "400"
+  },
+  {
+    "id": "356",
+    "name": "BENJAMIN KELLY",
+    "user":"KELBE",
+    "phone": "314-574-0949",
+    "email": "benkelly@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "358",
+    "name": "KLEJVI ALIMADHI",
+    "user":"ALIKL",
+    "phone": "314-347-6632",
+    "email": "klejvia@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "366",
+    "name": "BRANDON D. LOUD",
+    "user":"LOUBR",
+    "phone": "314-568-0333",
+    "email": "BRANDONL@VOGELHEATING.COM",
+    "dept": "450"
+  },
+  {
+    "id": "369",
+    "name": "GREGORY M. KEHR",
+    "user":"KEHGR",
+    "phone": "314-347-6727",
+    "email": "GREGORYK@VOGELHEATING.COM",
+    "dept": "300"
+  },
+  {
+    "id": "371",
+    "name": "ROBERT W. FLEIS",
+    "user":"FLERO",
+    "phone": "314-357-6748",
+    "email": "bobbyf@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "372",
+    "name": "JONATHAN MEYERS",
+    "user":"MEYJO",
+    "phone": "314-565-5838",
+    "email": "jonathanm@vogelheating.com",
+    "dept": "450"
+  },
+  {
+    "id": "391",
+    "name": "DYLAN BLACK",
+    "user":"BLADY",
+    "phone": "314-208-5717",
+    "email": "dylanb@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "393",
+    "name": "COLIN HINES",
+    "user":"HINCO",
+    "phone": "314-347-6727",
+    "email": "colinh@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "394",
+    "name": "CODY VONEY",
+    "user":"VONCO",
+    "phone": "314-347-7457",
+    "email": "codyv@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "409",
+    "name": "MIKE VOLKERT",
+    "user":"VOLMI",
+    "phone": "314-568-9186",
+    "email": "MIKEV@VOGELHEATING.COM",
+    "dept": "300"
+  },
+  {
+    "id": "413",
+    "name": "TONY HENRICKS",
+    "user":"HENTO",
+    "phone": "314-347-9674",
+    "email": "tonyh@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "422",
+    "name": "JOSE TREVINO",
+    "user":"TREJO",
+    "phone":"",
+    "email": "JOSET@VOGELHEATING.COM",
+    "dept": "350"
+  },
+  {
+    "id": "423",
+    "name": "JESSICA WEBER",
+    "user":"WEBJE",
+    "phone":"",
+    "email": "jessicaw@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "445",
+    "name": "ALEX GRISHCHUCK",
+    "user":"GRIAL",
+    "phone":"",
+    "email": "alexg@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "450",
+    "name": "IAN BURKE",
+    "user":"BURIA",
+    "phone": "314-568-0292",
+    "email": "ianb@vogelheating.com",
+    "dept": "450"
+  },
+  {
+    "id": "454",
+    "name": "BRIAN CLYNES",
+    "user":"CLYBR",
+    "phone": "314-208-7958",
+    "email": "brianc@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "455",
+    "name": "GREG COUNTS",
+    "user":"COUGR",
+    "phone": "314-347-8301",
+    "email": "Gregc@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "468",
+    "name": "STEVEN ORF",
+    "user":"ORFST",
+    "phone": "314-756-3151",
+    "email": "steveo@vogelheating.com",
+    "dept": "400"
+  },
+  {
+    "id": "469",
+    "name": "SEAN BELLEVILLE",
+    "user":"BELSE",
+    "phone": "314-347-5591",
+    "email": "seanb@vogelheating.com",
+    "dept": "450"
+  },
+  {
+    "id": "476",
+    "name": "MICHAEL LECHNER",
+    "user":"LECMI",
+    "phone": "314-722-0645",
+    "email": "mikel@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "486",
+    "name": "ANDY OLIVER",
+    "user":"OLIAN",
+    "phone": "314-722-0708",
+    "email": "andyo@vogelheating.com",
+    "dept": "300"
+  },
+  {
+    "id": "80",
+    "name": "DENNIS D. CRIDER",
+    "user":"CRIDE",
+    "phone": "314-495-9035",
+    "email": "dennisc@vogelheating.com",
+    "dept": "350"
+  },
+  {
+    "id": "COMMA",
+    "name": "COMMERCIAL MAINTENANCE",
+    "user":"COMMA",
+    "phone":"",
+    "email": "",
+    "dept": "350"
+  },
+  {
+    "id": "RESMA",
+    "name": "RESIDENTIAL MAINTENANCE",
+    "user":"RESMA",
+    "phone":"",
+    "email": "",
+    "dept": "300"
+  }
+]

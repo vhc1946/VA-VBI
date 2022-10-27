@@ -1,0 +1,111 @@
+[class*="report-area-"]{
+  display: flex;
+}
+.report-area-actions{
+  margin: 10px;
+  justify-content: space-between;
+}
+.report-area-buttons{
+  margin: 10px;
+  margin-top: 0px;
+}
+.dept-selected,.opt-selected{
+  background-color: var(--BCE-green);
+}
+.report-techmenu-header{
+  width:80px;
+  padding:5px;
+  background-color: var(--background-dark);
+  color: var(--text-light);
+  text-align: center;
+
+}
+
+
+.report-wo-eom-cont, .report-sc-eom-cont{
+    display:flex;
+}
+.mo-header{
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 15px;
+  text-align: center;
+}
+.report-count-list{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 5px;
+  height:fit-content;
+  width:fit-content;
+  padding: 15px;
+}
+.report-count-list>div:first-child{
+  grid-column:1 / 3;
+  font-weight:bold;
+}
+
+.report-table>div:nth-child(2)>div{
+  font-weight:bold;
+  font-size:1.2em;
+}
+.report-table>div:nth-child(2){
+  border:1px solid black;
+}
+.report-table>div:nth-child(n+3)>div:nth-child(1){
+  border-right:1px solid black;
+}
+.report-table-row{
+  display:flex;
+  flex-basis:1;
+}
+.report-table-row>div{
+  width:100px;
+  text-align:center;
+}
+
+/* Work Orders */
+#dept-menu>.viewcontrol-menu{
+  border-top: 5px solid var(--background-base);
+  height:100%;
+}
+#tech-menu{
+    height:520px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+/* Tech Display */
+.report-tech-eom-cont{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+.report-tech-name{
+  grid-column: 1 / 3;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+.report-woblock{
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+}
+.report-woblock>div:nth-child(-n+3){
+  font-weight: bold;
+}
+.report-techcom-row{
+  display:grid;
+  grid-template-columns: 55% repeat(4, 10%);
+}
+.report-techcom-row>div{
+  text-align: center;
+}
+.report-techcom-row>div:nth-child(1){
+  border-right: 1px solid black;
+}
+.report-comblock>.report-techcom-row:first-child{
+  font-weight: bold;
+  border-bottom:1px solid black;
+}
+.report-comblock>.report-techcom-row:nth-last-child(-n+2){
+  border-bottom:1px solid black;
+}
